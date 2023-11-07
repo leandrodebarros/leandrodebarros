@@ -10,4 +10,4 @@ leandro.de.barros@escola.pr.gov.br
 @leandro.de.barros
 
 
-(https://media.tenor.com/19YGYY4aX8sAAAAC/toothless-laugh-toothless-smile.gif).
+https://media.tenor.com/19YGYY4aX8sAAAAC/toothless-laugh-toothless-smile.gif
